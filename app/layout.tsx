@@ -6,7 +6,6 @@ const dmSans = DM_Sans({
   subsets: ['latin'],
   variable: '--font-dm',
   weight: ['300', '400', '500'],
-  axes: ['opsz'],
 })
 
 const cormorant = Cormorant_Garamond({
